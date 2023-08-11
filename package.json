@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@aave/core-v3": "^1.17.0",
-    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts": "^4.9.3",
     "dotenv": "^16.0.3"
   }
 }
